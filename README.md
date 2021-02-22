@@ -1,0 +1,2 @@
+# LearningScala
+LearningScala in depth
