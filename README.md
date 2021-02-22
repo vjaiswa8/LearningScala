@@ -1,2 +1,2 @@
 # LearningScala
-LearningScala in depth
+Learning Scala in depth
